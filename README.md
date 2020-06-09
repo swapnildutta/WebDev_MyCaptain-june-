@@ -455,3 +455,10 @@ Now that we have learned something more in detail about HTML. We saw semantic ov
 6. What are the types of path a link can have?
 
 ## Do the exercise 3
+
+<!-- steps to follow -->
+
+1. Fork the repo from the link
+2. clone it
+3. Solve the excercises
+4. push the code
